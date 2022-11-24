@@ -52,6 +52,14 @@ button{
 p, h3 {
   color: var(--light);
 }
+p {
+  font-size: 0.9rem;
+
+}
+
+h3 {
+  font-size: 1.5rem;
+}
 .app{
   display: flex;
   main{

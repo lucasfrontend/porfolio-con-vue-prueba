@@ -1,8 +1,8 @@
 <template>
     <main class="bg">
-      <h3 class="pt-4">Staff</h3>
-        <section>
-          <div class="container">
+      <section>
+        <div class="container">
+            <h2 class="pt-4">Staff</h2>
             <div class="row flex-center sm-no-flex">
 
               <div class="pull-right sm-no-float col-md-9">
@@ -144,6 +144,13 @@ import StaffMemberCard from '@/components/items/StaffMemberCard';
   min-height: 100vh;
   min-width: 80%;
   z-index: -10;
+  section {
+    .container{
+      h2 {
+        font-size: 1.8rem;
+      }
+    }
+  }
 }
 .team-members {
   transform: rotate(-45deg);
@@ -296,6 +303,8 @@ import StaffMemberCard from '@/components/items/StaffMemberCard';
     font-size: 22px;
     font-weight: 700;
     margin-bottom: 5px;
+    color: var(--dark);
+
   }
 
   > a {
