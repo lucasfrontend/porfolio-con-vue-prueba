@@ -24,6 +24,7 @@ export default {
     z-index: 10;
     background-color: rgba(40, 22, 22, 0.34);
     color: var(--light);
+    border-radius: 3px;
     /*
     overflow:hidden;
     */
