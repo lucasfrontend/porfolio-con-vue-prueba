@@ -76,7 +76,7 @@ aside{
     color: var(--light);
     width: calc(2rem + 84px);
     overflow: hidden;
-    min-height: 100vh;
+    min-height: 100%;
     padding: 0rem;
     transition: 0.3s ease-out;
     @media (max-width: 768px) {

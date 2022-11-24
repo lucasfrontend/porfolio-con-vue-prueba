@@ -14,7 +14,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.footer{
+.footer {
     position: fixed;
     right: 1rem;
     bottom: 1rem;

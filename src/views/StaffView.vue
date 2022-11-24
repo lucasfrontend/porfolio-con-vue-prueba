@@ -137,7 +137,7 @@ import StaffMemberCard from '@/components/items/StaffMemberCard';
   <style lang="scss" scoped>
 
 .bg{
-  background-image: url('../assets/bg-1.jpg');
+  background-image: url('../assets/bg-1.webp');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 

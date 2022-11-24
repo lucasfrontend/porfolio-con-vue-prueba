@@ -55,12 +55,12 @@ export default {
         min-width: 20%;
         font-size: 0.5rem;
         .icons {
-            font-size: 1.4rem;
+            font-size: 1rem;
             color: var(--light);
             padding: 5px;
             margin: 0;
             p{
-                font-size: 0.9rem;
+                font-size: 0.6rem;
 
             }
         }
