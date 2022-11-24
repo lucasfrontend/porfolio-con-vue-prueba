@@ -137,10 +137,11 @@ import StaffMemberCard from '@/components/items/StaffMemberCard';
   <style lang="scss" scoped>
 
 .bg{
-  background-image: url('../assets/bg-1.webp');
+  background-image: url('../assets/bg-1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
+  overflow: hidden;
   min-height: 100vh;
   min-width: 80%;
   z-index: -10;
@@ -154,7 +155,6 @@ import StaffMemberCard from '@/components/items/StaffMemberCard';
 }
 .team-members {
   transform: rotate(-45deg);
-
   li {
     list-style:none;
     > div {
@@ -186,8 +186,6 @@ import StaffMemberCard from '@/components/items/StaffMemberCard';
     position: relative;
     overflow: hidden;
     border-radius: 10px;
-
-
   }
   .jaira{
     background-image: url('../assets/staff/jaira.jpg');
