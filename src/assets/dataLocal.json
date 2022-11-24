@@ -1,0 +1,1663 @@
+[
+    {
+      "id": 1,
+      "name": "A LICENSE",
+      "description": "El primer nivel de Licencia, que indica que el paracaidista ha superado la fase de alumno y puede saltar sin supervisión de su Instructor o Jumpmaster.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 2,
+      "name": "A/C.",
+      "description": "Abreviatura de Aeronave. AIRCRAFT.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 3,
+      "name": "AAD",
+      "description": "Sistema de activación automática. Dispositivo utilizado para activar la apertura de un paracaídas, por lo general el velamen de reserva.",
+      "img": "https://www.cypres.aero/wp-content/uploads/2016/08/Stu_3319c-1200x828.jpg",
+      "alt": "cypres"
+    },
+    {
+      "id": 4,
+      "name": "ACCELERATED SKYDIVING PROGRAM",
+      "description": "Versión del AFF de Skydive Arizona, aunque esta incluye dos saltos TANDEM.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 5,
+      "name": "ACCURACY",
+      "description": "Precisión de Aterrizaje",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 6,
+      "name": "AFF",
+      "description": "Siglas de ACCELERATED FREEFALL, método de progresión de enseñanza acelerada de caída libre.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 7,
+      "name": "AGL",
+      "description": "Siglas de Above GroundLevel, que significa sobre el nivel del terreno.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 8,
+      "name": "AIRCRAFT",
+      "description": "Aeronave, entendiéndose por tal a cualquier máquina o sistema, incluidos aviones,  helicópteros, planeadores, globos, etc",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 9,
+      "name": "AIRSPEED",
+      "description": "Es la velocidad a la cual un elemento volador se mueve dentro de la masa de aire. También  conocida como velocidad indicada",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 10,
+      "name": "ALTIMETER",
+      "description": "Altímetro.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 11,
+      "name": "ANGLE OF ATTAC",
+      "description": "Angulo de ataque, ángulo entre el ala y el viento relativo o aparente",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 12,
+      "name": "ANGLE OF INCIDENCE",
+      "description": "Ángulode incidencia.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 13,
+      "name": "APPARENT WIND",
+      "description": "Viento aparente. Es el viento que percibe un observador",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 14,
+      "name": "ASP",
+      "description": "Siglas de ACCELERATED SKYDIVING PROGRAM.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 15,
+      "name": "ASPECT RATIO",
+      "description": "Relación de Aspecto. Cociente entre la envergadura, la distancia entre el borde de ataque y el borde de fuga",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 16,
+      "name": "ASTRA",
+      "description": "Un AAD fabricado por FXC Corporation.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 18,
+      "name": "AUTOMATIC ACTIVATION DEVICE (AAD)",
+      "description": "Dispositivo de activación automática del paracaídas.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 19,
+      "name": "AUXILIARY PARACHUT",
+      "description": "Término utilizado para referirse al Velamen de reserva o emergencia en saltos intencionales.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 20,
+      "name": "B LICENSE",
+      "description": "Licencia B, segundo nivel de Licencia.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 21,
+      "name": "BACKSLIDE",
+      "description": "Movimiento lateral realizado en caída libre, respecto a un punto neutro o fijo. Es un movimiento no intencional, causado por una mala posición de caída",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 22,
+      "name": "BAG",
+      "description": "La bolsa donde se pliega el velamen. Ver POD.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 23,
+      "name": "BASE JUMP",
+      "description": "Salto realizado de un objeto fijo en lugar de una aeronave. La palabra BASE es un acrónimo  de Edificios (Buildings), Antenas (Antennae), Puentes(Spans) y Acantilados (Earth).",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 24,
+      "name": "BASE LEG",
+      "description": "Básica",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 25,
+      "name": "BASE",
+      "description": "El núcleo desde el cual se construye una formación de paracaidistas. Puede ser un paracaidista o un grupo, dependiendo del tamaño de la formación",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 26,
+      "name": "BASE-PIN",
+      "description": "Grupo base o primer agarre de dos paracaidistas en caída libre o velámenes, que sirve de base para la construcción del resto de la formación.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 27,
+      "name": "BASIC BODY FLIGH",
+      "description": "Nombre del curso de técnicas de vuelo en caída libre dado por la Skydive University y que se conoce con sus siglas BBF.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 28,
+      "name": "BASIC SAFETY REQUIREMENTS",
+      "description": "Requisitos Básicos de Seguridad.BBF: Ver BASIC BODY FLIGHT.",
+      "img": "",
+      "alt": ""
+    },    
+    {
+      "id": 29,
+      "name": "BEECH",
+      "description": "Diminutivo de Beechcraft, una famosa marca de Aviones.",
+      "img": "",
+      "alt": ""
+    },
+
+    {
+      "id": 30,
+      "name": "BEER",
+      "description": "Impuesto que se abona por cada error en paracaidismo. La cantidad de cervezas a abonar es proporcional a la magnitud de la cagada.",
+      "img": "data:image/jpeg;base64,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",
+      "alt": "cervezas"
+    },
+
+    {
+      "id": 31,
+      "name": "BEER LINE",
+      "description": "Línea o indicación física del sector donde debe realizarse el aterrizaje.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 32,
+      "name": "BOC",
+      "description": "Siglas de Bottom On Container, designándose así al pilotín pasivo que se aloja en la base o  parte inferior del Contenedor.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 33,
+      "name": "BODY POSITION",
+      "description": "Postura del cuerpo en caída libre.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 34,
+      "name": "BOOGIE",
+      "description": "Encuentro de paracaidistas, enfocado más a la diversión que a la competencia.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 35,
+      "name": "BOUNCE",
+      "description": "Familiarmente se dice al aterrizar a una velocidad a la cual es imposible sobrevivir",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 36,
+      "name": "BOX MAN",
+      "description": "También conocida como BOX POSITION o simplemente BOX. Es una posición neutral de caída cara a tierra.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 37,
+      "name": "BOX POSITION",
+      "description": "Posición BOX",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 38,
+      "name": "BOX",
+      "description": "Posición de caída neutral de cara a tierra.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 39,
+      "name": "BRAKES",
+      "description": "Frenos, sinónimo de cuerda de comando.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 40,
+      "name": "BREAK AWAY",
+      "description": "Desprendimiento.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 41,
+      "name": "BREAK OFF",
+      "description": "Indicación que se dá en Trabajo Relativo de Velámenes para desarmar la formación conseguida.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 42,
+      "name": "BSR",
+      "description": "Siglas de BASIC SAFETY REQUIREMENTS",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 43,
+      "name": "BUNGEE",
+      "description": "Pilotín que tiene un cordón elástico en su interior, lo que colapsa el pilotín cuando la tracción que se ejerce sobre el es débil",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 44,
+      "name": "BURBLE",
+      "description": "Area turbulenta detrás de un objeto cuando pasa por el aire",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 45,
+      "name": "CALL",
+      "description": "Llamada previa al embarque. Por ejemplo “A five minutes call”, significa que debe abordarse en cinco minutos.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 46,
+      "name": "CANOPY RELEASE",
+      "description": "Liberación del Velamen",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 47,
+      "name": "CANOPY",
+      "description": "Velamen",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 48,
+      "name": "CASCADE",
+      "description": "Cascada, o dividida.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 49,
+      "name": "CELL",
+      "description": "Celdas o cajones de un paracaídas cuadrado.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 50,
+      "name": "CENTER POINT",
+      "description": "Punto central, centro de giro.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 51,
+      "name": "CESSNA",
+      "description": "Nombre de un fabricante de aeronaves, se usa como sinónimo de aeronaves pequeñas",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 52,
+      "name": "CHUTE ASSIS",
+      "description": "Término francés utilizado para designar el SITFLYING, posición donde el paracaidista va sentado respecto al viento relativo.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 53,
+      "name": "CIRCLE OF AWARNESS",
+      "description": "En el curso de Caída Libre Acelerada(AFF), es el control sistemático de orientación, encabezamiento, altura e indicaciones de los JUMPMASTER",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 54,
+      "name": "CLOSING LOOP",
+      "description": "Cuerda de cierreo bucle de cierre.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 55,
+      "name": "COA",
+      "description": "Siglas de CIRCLE OF AWARNESS",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 56,
+      "name": "COACH",
+      "description": "Entrenador de paracaidistas.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 57,
+      "name": "CONNECTOR LINKS",
+      "description": "Eslabones de metal, que vinculan las bandas con las cuerdas de suspensión.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 58,
+      "name": "CONTAINER",
+      "description": "Contenedor, parte del sistema de paracaídas.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 59,
+      "name": "CRABBING",
+      "description": "Referido a control del velamen, es cuando el paracaídas se desplaza derivando, es decir hacia delante y al costado simultáneamente",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 60,
+      "name": "CREEP",
+      "description": "Se dice de la práctica de paracaidismo de formación acostados sobre los CREEPER",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 61,
+      "name": "CREEPER",
+      "description": "Una tabla equipada con ruedas sobre el cual el paracaidista se coloca para simular maniobras en caída libre",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 62,
+      "name": "CROSS CONNECTORS",
+      "description": "Cruzados o conectores cruzados. Cuerda o cinta colocada entre las bandas delantera y trasera del mismo lado, y que se utiliza en algunos tipos de Trabajo Relativo de Velámene",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 63,
+      "name": "CROSS COUNTRY",
+      "description": "Navegación.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 64,
+      "name": "CROSS PORTs",
+      "description": "Ver CROSSPORTING",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 65,
+      "name": "CROSSPORTING",
+      "description": "Orificios sobre las costillas y que aseguran similar presurización en todo el velamen",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 66,
+      "name": "CRW",
+      "description": "Siglas de CANOPY RELATIVE WORK o Trabajo Relativo de Velámenes",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 67,
+      "name": "CURRENT",
+      "description": "Activo, se utiliza para designar a un paracaidista con sus licencias y certificaciones vigentes.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 68,
+      "name": "CUTAWAY HANDLE",
+      "description": "Manija del Desprendimiento o liberador",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 69,
+      "name": "CUTAWAY",
+      "description": "Liberación del velamen principal. También llamado BREAK-AWAY",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 70,
+      "name": "CYPRES",
+      "description": "Un tipo de AAD electrónico. Fabricado por Airtec de Alemania, siendo el tipo más común",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 71,
+      "name": "D LICENSE",
+      "description": "Licencia D",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 72,
+      "name": "DACRON",
+      "description": "Nombre comercial del material de construcción de las cuerdas de suspensión.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 73,
+      "name": "DATA CARD",
+      "description": "Tarjeta con la información del paracaídas de reserva",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 74,
+      "name": "DC-3",
+      "description": "Denominación del DouglasDC-3",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 75,
+      "name": "DEAD SPIDER",
+      "description": "Ver DE-ARCH",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 76,
+      "name": "DE-ARCH",
+      "description": "Posición de Caída libre donde se busca disminuir la velocidad de caída, también llamado DEAD SPIDER",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 77,
+      "name": "DECISION ALTITUDE",
+      "description": "Altura de decisión",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 78,
+      "name": "DEEP BRAKES TURNS",
+      "description": "Giro realizado con los comandos a la altura de la cadera",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 79,
+      "name": "DELAYED OPENING",
+      "description": "Apertura retardada, aunque es obsoleto y se usa Freefall",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 80,
+      "name": "DELTA POSITION",
+      "description": "Posición Delta.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 81,
+      "name": "DEMONSTRATION JUMP",
+      "description": "Salto de exhibición o de demostración.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 82,
+      "name": "DEPLOYMENT BAG",
+      "description": "Bolsa o P.O.D. es un sistema que mantiene el velamen separado de las cuerdas, hasta que estas últimas se han estirado completamente.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 83,
+      "name": "DEPLOYMENT DEVICE",
+      "description": "La bolsa, vaina, manga utilizada para controlar la secuencia de apertura de un paracaídas.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 83,
+      "name": "DEPLOYMENT SYSTEM",
+      "description": "Sistema de despliegue del paracaídas, incluye pilotín chicote y bolsa.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 84,
+      "name": "DEPLOYMENT",
+      "description": "Despliegue. La porción de la secuencia de apertura que transcurre entre que se abre el contenedor y las cuerdas se estiran completamente, antes que el velamen salga de la bolsa.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 85,
+      "name": "DIAPER",
+      "description": "Un sistema de apertura, que consiste en un trozo de tela cosido a la parte de inferior de la vela y que evita su inflado hasta que las cuerdas se han estirado completamente. Utilizado frecuentemente con los paracaídas redondos, también se utiliza en algunos velámenes de Trabajo Relativo de Velámenes",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 86,
+      "name": "DIRT DIVE",
+      "description": "Práctica en tierra de un salto.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 87,
+      "name": "DIVE FLOATER",
+      "description": "Posición en una formación grande que sale previo a la base",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 88,
+      "name": "DIVE LOOPS",
+      "description": "Agarres colocados en las bandas delanteras que sirven para manejar el velamen. También llamados FRONT RISERSLOOPS",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 89,
+      "name": "DIVER",
+      "description": "El que sale a buscar la base en una formación de caída libre.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 90,
+      "name": "DOOR EXI",
+      "description": "Salida de puerta.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 91,
+      "name": "DOOR JAM",
+      "description": "Practica de la salida en una maqueta antes de realizar el salto.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 92,
+      "name": "DOWN PLANE",
+      "description": "Formación de Trabajo relativo de velámenes, donde ambos velámenes apuntan al suelo. También se puede dar en el caso en que un paracaidista tenga sus dos velámenes desplegados.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 93,
+      "name": "DOWNWIND APPROACH",
+      "description": "Inicial.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 94,
+      "name": "DROP ZONE",
+      "description": "Tiene dos acepciones, puede ser cualquier área de aterrizaje predeterminada en un salto intencional (Zona de aterrizaje, o bien un Centro de Paracaidismo.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 95,
+      "name": "DUAL ASSEMBLE",
+      "description": "Conjunto Dual. Sistema de dos paracaídas.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 96,
+      "name": "DUMMY RIPCORD PULL (DRCP)",
+      "description": "Manija Falsa.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 97,
+      "name": "DUST DEVILS",
+      "description": "Torbellinos o remolinos de polvo, que indican una turbulencia de considerable intensidad.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 98,
+      "name": "DYTTER",
+      "description": "Marca de un altímetro sonoro.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 99,
+      "name": "DZ",
+      "description": "Abreviatura de DROPZONE.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 100,
+      "name": "ELLIPTICAL",
+      "description": "Dícese de los velámenes de planta ahusada.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 101,
+      "name": "EMERGENCY PARACHUTE",
+      "description": "Paracaídas de reserva o emergencia.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 102,
+      "name": "END CEL",
+      "description": "Celdas extremas",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 103,
+      "name": "EXHIBITION JUM",
+      "description": "Salto de exhibición o demostración.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 104,
+      "name": "EXIT POINT",
+      "description": "Punto de salida, indicado sobre el terreno.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 105,
+      "name": "EXIT WEIGH",
+      "description": "El peso total del paracaidista más todo su equipo y ropa.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 106,
+      "name": "F-111",
+      "description": "Tela ligeramente permeable muy utilizada envelámenes de medio rango.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 107,
+      "name": "FAA",
+      "description": "Siglas de FEDERAL AVIATION ADMINISTRATION.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 108,
+      "name": "FABRIC",
+      "description": "Tela, por ejemplo el F-111.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 109,
+      "name": "FAI",
+      "description": "Siglas de la Federación Aeronáutica Internacional",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 110,
+      "name": "FEDERAL AVIATION ADMINISTRATIO",
+      "description": "Es la Administración Federal de Aviaciónde los Estados Unidos.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 111,
+      "name": "FEDERATION AERONAUTIQUE INTERNATIONALE",
+      "description": "Federación Aeronáutica Internacional",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 112,
+      "name": "FAR",
+      "description": "Siglas de FEDERAL AVIATIONREGULATIONS, es decir los Reglamentos Federales de Aviaciónde los Estados Unidos.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 113,
+      "name": "FALL RAT",
+      "description": "Velocidad o tasa de caída.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 114,
+      "name": "FIELD PACKING",
+      "description": "Plegado provisorio. Se llama así cuando se acomoda temporariamente al velamen dentro del contenedor para hacer más fácil su transporte.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 115,
+      "name": "FINAL APPROACH",
+      "description": "Final, o aproximación final.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 116,
+      "description": "FINGER TRAP",
+      "name": "Método de instalación de un loop en la cuerda de freno.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 117,
+      "name": "FLARE",
+      "description": "Planeo final en el aterrizaje.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 118,
+      "name": "FLAT PACK",
+      "description": "Sencillo tipo de plegado donde el velamen se coloca de lado y luego se pliega el borde de ataque y el de fuga por separado, hasta juntarlos y embolsarlo.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 119,
+      "name": "FLOATER",
+      "description": "En Formación de Caída Libre el Flotador, primeros que salen de la Aeronave",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 120,
+      "name": "FREESTYLE",
+      "description": "Disciplina   deportivade    acrobacias    individuales    envuelo",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 121,
+      "name": "FREEFAL",
+      "description": "Caída Libre. Porción del salto que transcurre entre el abandono de la aeronave y la apertura del paracaídas.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 122,
+      "name": "FRENCH HAT",
+      "description": "Casco de cuero acolchado, con ballenas",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 123,
+      "name": "FS",
+      "description": "Siglas de Formation Skydiving, lo que se conocía antiguamente como Trabajo Relativo.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 124,
+      "name": "FORMATION",
+      "description": "Formación. Referido a dos o más paracaidistas o aeronaves.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 125,
+      "name": "FORMATION SKYDIVING",
+      "description": "Formación en caída libre. Son maniobras aéreas de dos o más paracaidistas entre si, a menudo formando figuras geométricas",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 126,
+      "name": "FULL FACE HELMET",
+      "description": " Casco integral.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 127,
+      "name": "FUNNE",
+      "description": "Inestabilidad producida en la burbuja turbulenta detrás de una formación.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 128,
+      "name": "FXC",
+      "description": "Compañía fabricante de AAD.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 129,
+      "name": "GLIDE",
+      "description": "Planeo, movimiento horizontal de un paracaídas descendiendo.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 130,
+      "name": "GLIDE RATIO",
+      "description": "Tasa o Relación de Planeo.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 131,
+      "name": "GO TOGGLES",
+      "description": "Comando de bandas delanteras utilizado en Trabajo Relativo de Velámenes.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 132,
+      "name": "GPS",
+      "description": "Siglas de GLOBAL POSITIONING SYSTEM, Sistema de Posicionamiento Global. Utilizado para apuntar el lanzamiento.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 133,
+      "name": "GROUNDSPEED",
+      "description": "Velocidadrespecto al terreno.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 134,
+      "name": "GRIPS",
+      "description": "Agarres",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 135,
+      "name": "GRIPPERS",
+      "description": "Agarraderas",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 136,
+      "name": "GROUND SPEED",
+      "description": "Velocidad terrestre.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 137,
+      "name": "HALF BRAKES TURNS",
+      "description": "Giro a medio freno.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 138,
+      "name": "HALO",
+      "description": "(High Altitude Low Openning). Salto realizado a gran altitud y baja apertura.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 139,
+      "name": "HAHO",
+      "description": "(High Altitude High Openning). Salto realizado a gran altitud de apertura alta.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 140,
+      "name": "HAND DEPLOYED PILOT CHUTE",
+      "description": "Pilotín Pasivo, paracaídas piloto sin resorte. Ver también PULL OUT y THROW OUT",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 141,
+      "name": "HANDLE",
+      "description": "Manija",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 142,
+      "name": "HARNESS",
+      "description": "Arnés",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 143,
+      "name": "HEADING",
+      "description": "Encabezamiento",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 144,
+      "name": "HELMET",
+      "description": " Casco o protección de la cabeza.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 145,
+      "name": "HOLDING",
+      "description": "Referido al manejo del velamen, es la posición en la que el paracaídas enfrenta al viento",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 146,
+      "name": "HOLDING AREA",
+      "description": "Zona delante del objetivo utilizada para perder altura.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 147,
+      "name": "HOOK KNIFE",
+      "description": "Cortacuerdas tipo Gancho, diferenciándose de un cuchillo común.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 148,
+      "name": "HOOK TURN",
+      "description": "Giro gancho, giro de 90º o más.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 149,
+      "name": "HOT FUEL",
+      "description": "Se dice cuando el avión no detiene su motor durante su reabastecimiento.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 150,
+      "name": "I/E",
+      "description": "Instructor Examinador.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 151,
+      "name": "INSPECTION",
+      "description": "Inspección, Revisión.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 152,
+      "name": "IN DATE",
+      "description": "Vigente, se utiliza generalmente con la reserva.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 153,
+      "name": "IPC",
+      "description": "Siglas de INTERNATIONAL PARACHUTING COMMISION, la rama de  la  FAI  que supervisa el Paracaidismo Deportivo.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 154,
+      "name": "JM",
+      "description": "Abreviatura de JUMPMASTER",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 155,
+      "name": "JUDGE",
+      "description": "Juez.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 156,
+      "name": "JUMP ALTITUD",
+      "description": "Altura del salto. Altura verdadera en el momento de la salida.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 157,
+      "name": "JUMP RUN",
+      "description": "Final o Corrida de Lanzamiento.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 158,
+      "name": "JUMPMASTE",
+      "description": "Maestro de Saltos, es aquel paracaidista que supervisa a los otros desde que ingresan a la aeronave hasta su salida, también puede denominarse SPOTTER",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 159,
+      "name": "JUMPSUIT",
+      "description": "Buzo o Mono de salto.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 160,
+      "name": "KEY",
+      "description": "Señal que indica el movimiento a otro paso del salto de Formación de Caída Libre.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 161,
+      "name": "KILL LINE",
+      "description": "Pilotín colapsable que tiene una cuerda en su interior, que vinculada a la Bolsa o POD,colapsa el pilotín luego de la apertura.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 162,
+      "name": "KING AIR",
+      "description": "Biturbohélice fabricado por la Beechcraft.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 163,
+      "name": "LANDING",
+      "description": "Aterrizaje.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 164,
+      "name": "LINE DOCK",
+      "description": "Es el enganche de dos velámenes donde el velamen propiamente dicho está por encima de  la cabeza del que recibe el enganche. Es una maniobra avanzada, muy útil para la formación PLANE",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 165,
+      "name": "LINES",
+      "description": "Cuerdas de suspensión.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 166,
+      "name": "LINE OF FLIGH",
+      "description": "Dirección de vuelo.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 167,
+      "name": "LOG BOOK",
+      "description": "Libro de saltos o Bitácora.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 168,
+      "name": "LORAN",
+      "description": "Sistema de navegación, similar al GPS, pero con transmisores terrestres.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 169,
+      "name": "MANIFEST",
+      "description": "s. Manifiesto. V.Registrarse. S. Lugar donde se realiza el Manifiesto.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 170,
+      "name": "MAIN",
+      "description": "Paracaídas Principal.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 171,
+      "name": "MAIN PARACHUT",
+      "description": "Paracaídas principal",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 172,
+      "name": "MAIN RIPCORD",
+      "description": "Manija que activa el velamen principal.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 173,
+      "name": "MAINTENANC",
+      "description": "Inspección, recorrida, reparación, preservación y reemplazo de piezas o partes.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 174,
+      "name": "MAJOR REPAIR",
+      "description": "Reparación mayor",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 175,
+      "name": "MALFUNCTION",
+      "description": "Malfunción",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 176,
+      "name": "MICROLINE",
+      "description": "Cuerdas de suspensión, de los paracaídas modernos, de menor sección y mayor resistencia a la tracción que las antiguas de Dacron.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 177,
+      "name": "MINOR ALTERATION",
+      "description": "Modificación menor.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 178,
+      "name": "MINOR REPAIR",
+      "description": "Reparación menor.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 179,
+      "name": "MIL-SPEC",
+      "description": "Elemento fabricado bajo especificaciones Técnicas Militares, lo que le confieren un grado mayor de resistencia a los distintos agentes agresivos.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 180,
+      "name": "MODIFICATION",
+      "description": "Modificación",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 181,
+      "name": "MSL",
+      "description": "Nivel del Mar",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 182,
+      "name": "NAA",
+      "description": "Representante de los Estados unidos ante la FA.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 183,
+      "name": "NATIONAL AERONAUTIC ASSOCIATION",
+      "description": "sociación Aeronautica Nacional. (Ver NAA).",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 184,
+      "name": "NIGHT JUMP",
+      "description": "Salto Nocturno.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 185,
+      "name": "NOTAM",
+      "description": "(Notice to Airmen). Es una noticia o aviso dado a todo el personal que utilice el aeroespacio.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 186,
+      "name": "OPEN BODY OF WATER",
+      "description": "Zona abierta con agua. Se utiliza para especificar una zona con agua donde un paracaidista podría ahogarse.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 187,
+      "name": "OPENING FORCE",
+      "description": "Fuerza de apertura, también llamado Shock de apertura.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 188,
+      "name": "OPENING POIN",
+      "description": "Punto de apertura.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 189,
+      "name": "ORGANIZER",
+      "description": "Organizador o líder.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 190,
+      "name": "OSCILLATION",
+      "description": "Oscilación debida al efecto péndulo de un velamen o bien en Trabajo Relativo de Velámenes al movimiento resultante de un mal agarre, turbulencia o demasiado movimiento de los integrantes de la formación.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 191,
+      "name": "OTTER",
+      "description": "Nombre familiar dado al De Havilland Twin Otter DHC-6.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 192,
+      "name": "OUTBOARD",
+      "description": "Hacia afuera. Utilizado para describir la posición de las manijas de desprendimiento y apertura de paracaídas de reserva o emergencia.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 193,
+      "name": "OUTLANDING",
+      "description": "Aterrizaje fuera de zona.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 194,
+      "name": "OUT OF DATE",
+      "description": "Vencida. Ver INDATE.",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 195,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 196,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 197,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 198,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 199,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 200,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 201,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 202,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 203,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 204,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 205,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 206,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 207,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 208,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 209,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 210,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 211,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 212,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 213,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 214,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 215,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 216,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 217,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 218,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 219,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 220,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 221,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 222,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 223,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 224,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 225,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 226,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 227,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 228,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 229,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 230,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 231,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 232,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 233,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 234,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 235,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 236,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    },
+    {
+      "id": 237,
+      "name": "",
+      "description": "",
+      "img": "",
+      "alt": ""
+    }
+  ]
